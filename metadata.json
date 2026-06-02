@@ -1,0 +1,6 @@
+{
+  "name": "Room Rental Checklist",
+  "description": "An offline-first room rental inspection checklist with progress tracking, itemized statuses, photo captures, and comparative logs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
